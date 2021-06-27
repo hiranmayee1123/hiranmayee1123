@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hiranmayee</h1>
+![Black-Friday-Shoes-Sale-Twitter-Post](https://user-images.githubusercontent.com/62197337/123547541-d25b9300-d77e-11eb-9af8-bd5697ce8748.jpg)
+
 <h3 align="center">AI, Big data aspirant, B.Tech 2nd year student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiranmayee1123&label=Profile%20views&color=0e75b6&style=flat" alt="hiranmayee1123" /> </p>

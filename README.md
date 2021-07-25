@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on [Data Structures](https://github.com/hiranmayee1123/-50-days-data-structures)
 
-- 🌱 I’m currently learning **Operating systems**
+- 👩‍💻 Software engineer intern @ Digital Disruption
+
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **AI related projects**
 

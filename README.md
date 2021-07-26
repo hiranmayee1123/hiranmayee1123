@@ -10,6 +10,8 @@
 
 - 👩‍💻 Software engineer intern @ Digital Disruption
 
+- 🙎‍♀ Logic play club Big data domain Co-head
+
 - 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **AI related projects**

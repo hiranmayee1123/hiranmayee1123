@@ -1,6 +1,5 @@
 
 
-https://user-images.githubusercontent.com/62197337/127032904-da61efb2-ae7e-4fad-988d-4f1ce6367b68.mp4
 
 
 <h3 align="center">AI, Big data aspirant, B.Tech 2nd year student</h3>

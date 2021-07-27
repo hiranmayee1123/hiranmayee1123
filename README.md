@@ -1,6 +1,6 @@
 <h3 align="center">Artificial intelligence and Big data aspirant, B.Tech 3rd year student</h3>
 
-<allign="center">![intro](https://user-images.githubusercontent.com/62197337/127108407-08631df9-6f64-46c2-a699-22c603a25477.gif)
+![intro](https://user-images.githubusercontent.com/62197337/127108407-08631df9-6f64-46c2-a699-22c603a25477.gif)
 
 
 

@@ -1,8 +1,8 @@
 <h3 align="center">Artificial intelligence and Big data aspirant, B.Tech 3rd year student</h3>
 
-<p align="center">
+<div align="center">
 ![intro](https://user-images.githubusercontent.com/62197337/127108407-08631df9-6f64-46c2-a699-22c603a25477.gif)
-</p>
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hiranmayee1123&label=Profile%20views&color=0e75b6&style=flat" alt="hiranmayee1123" /> </p>

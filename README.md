@@ -1,4 +1,4 @@
-<h3 align="center">Artificial intelligence and Big data aspirant, B.Tech 3rd year student</h3>
+<h3 align="center">Machine Learning and Data Science Aspirant, Master's Student at Clemson University</h3>
 
 
 ![Howdy there!!](https://user-images.githubusercontent.com/62197337/128387434-e19d33d5-ab2e-42c2-8635-09d72d475347.gif)
@@ -10,19 +10,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiranmayee1123" alt="hiranmayee1123" /></a> </p>
 
-- 🔭 I’m currently working on [Data Structures](https://github.com/hiranmayee1123/-50-days-data-structures)
+- 🔭 I’m currently working on [Power BI](https://github.com/hiranmayee1123/-50-days-data-structures)
 
-- 👩‍💻 Software engineer intern @ Digital Disruption
-
-- 🙎‍♀ Logic play club Big data domain Co-head
+- 👩‍💻 Pursuing Master's in Computer Science at Clemson University
 
 - 🌱 I’m currently learning **SQL**
 
-- 👯 I’m looking to collaborate on **AI related projects**
+- 👯 I’m looking to collaborate on **ML and Data Science related projects**
 
 - 👩🏻 Pronouns [she/Ame/Aval/Kanojo](she/Ame/Aval/Kanojo)
 
-- 💬 Ask me about **Python,Opencv**
+- 💬 Ask me about **Python,Opencv,Power BI,Machine Learning**
 
 - 📫 How to reach me **hiranmayee1123@gmail.com**
 
